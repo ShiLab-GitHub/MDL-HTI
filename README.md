@@ -1,4 +1,5 @@
 Paper: "MDL-HTI: A Multimodal Deep Learning Approach for Predicting Herb-Target Interactions" (DOI: 10.1007/s12539-025-00772-w)
+
 Published in Interdiscip Sci Comput Life Sci: https://link.springer.com/article/10.1007/s12539-025-00772-w
 
 # MDL-HTI
