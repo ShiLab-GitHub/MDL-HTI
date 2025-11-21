@@ -1,5 +1,4 @@
-This paper has been published as "MDL-HTI: A multimodal deep learning approach for predicting herb-target interactions" (DOI: 10.1007/s12539-025-00772-w).
-https://link.springer.com/article/10.1007/s12539-025-00772-w
+Paper: "MDL-HTI: A Multimodal Deep Learning Approach for Predicting Herb-Target Interactions" (DOI: 10.1007/s12539-025-00772-w)Published in Interdiscip Sci Comput Life Sci: https://link.springer.com/article/10.1007/s12539-025-00772-w
 
 # MDL-HTI
 This repository contains the data and Python scripts related to the manuscript titled "MDL-HTI: Multimodal deep learning approach for predicting herb-target interactions". It provides the necessary data sources for model training and evaluation, along with Python scripts that are used for data preprocessing, model implementation and training procedures.
